@@ -1,0 +1,1 @@
+This is the data. It will be signed with key.pem and output as a sha512 message digest. The key password is 'pass'.
